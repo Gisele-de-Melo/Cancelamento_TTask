@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/cancelamento-de-ttasks-em-delphi/
+  https://www.codedelphi.com/2024/08/cancelamento-de-ttasks-em-delphi.html
